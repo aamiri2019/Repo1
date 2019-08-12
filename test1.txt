@@ -1,10 +1,1 @@
- Volume in drive C is Windows8_OS
- Volume Serial Number is A2AF-7EA9
-
- Directory of C:\Users\Alex\Desktop\MyProject
-
-08/12/2019  04:38 PM    <DIR>          .
-08/12/2019  04:38 PM    <DIR>          ..
-08/12/2019  04:38 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  12,045,365,248 bytes free
+ change 1
